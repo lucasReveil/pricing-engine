@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/lucas/quant_dev/pricing-engine/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

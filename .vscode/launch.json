@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+      "name": "Debug unit_tests (GTest)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/unit_tests",
+      "args": ["--gtest_filter=Curve.*"],
+      "cwd": "${workspaceFolder}",
+      "stopOnEntry": false,
+      "preLaunchTask": "build",
+      "console": "integratedTerminal",
+      "env": {
+        "ASAN_OPTIONS": "detect_leaks=0"
+      }
+    },
+    {
+      "name": "Debug pricer_engine (lldb)",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/pricer_engine",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopOnEntry": false,
+      "console": "integratedTerminal",
+      "preLaunchTask": "build"
+    }
+  ]
+}

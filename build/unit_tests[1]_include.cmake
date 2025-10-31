@@ -1,0 +1,5 @@
+if(EXISTS "/Users/lucas/quant_dev/pricing-engine/build/unit_tests[1]_tests.cmake")
+  include("/Users/lucas/quant_dev/pricing-engine/build/unit_tests[1]_tests.cmake")
+else()
+  add_test(unit_tests_NOT_BUILT unit_tests_NOT_BUILT)
+endif()

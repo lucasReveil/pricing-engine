@@ -1,0 +1,56 @@
+[
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/curve.dir/src/bond.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/bond.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/bond.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/curve.dir/src/bond.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/curve.dir/src/bond_pricer.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/bond_pricer.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/bond_pricer.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/curve.dir/src/bond_pricer.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/curve.dir/src/bootstrap.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/bootstrap.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/bootstrap.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/curve.dir/src/bootstrap.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/curve.dir/src/curve.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/curve.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/curve.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/curve.dir/src/curve.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/curve.dir/src/daycount.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/daycount.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/daycount.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/curve.dir/src/daycount.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/pricer_engine.dir/src/main.cpp.o -c /Users/lucas/quant_dev/pricing-engine/src/main.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/src/main.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/pricer_engine.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/unit_tests.dir/tests/bench_curve.cpp.o -c /Users/lucas/quant_dev/pricing-engine/tests/bench_curve.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/tests/bench_curve.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/unit_tests.dir/tests/bench_curve.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/unit_tests.dir/tests/test_curve.cpp.o -c /Users/lucas/quant_dev/pricing-engine/tests/test_curve.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/tests/test_curve.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/unit_tests.dir/tests/test_curve.cpp.o"
+},
+{
+  "directory": "/Users/lucas/quant_dev/pricing-engine/build",
+  "command": "/usr/bin/c++ -DFMT_SHARED -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -DSPDLOG_SHARED_LIB -I/Users/lucas/quant_dev/pricing-engine/include -isystem /opt/homebrew/include -isystem /opt/homebrew/include/eigen3 -g -std=gnu++20 -arch arm64 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -O3 -march=native -o CMakeFiles/bench_curve.dir/tests/bench_curve.cpp.o -c /Users/lucas/quant_dev/pricing-engine/tests/bench_curve.cpp",
+  "file": "/Users/lucas/quant_dev/pricing-engine/tests/bench_curve.cpp",
+  "output": "/Users/lucas/quant_dev/pricing-engine/build/CMakeFiles/bench_curve.dir/tests/bench_curve.cpp.o"
+}
+]

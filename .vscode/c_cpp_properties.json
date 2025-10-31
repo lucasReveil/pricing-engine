@@ -1,0 +1,21 @@
+{
+  "configurations": [
+    {
+      "name": "Mac LLVM",
+      "compilerPath": "/opt/homebrew/opt/llvm/bin/clang++",
+      "cStandard": "c17",
+      "cppStandard": "c++20",
+      "intelliSenseMode": "clang-x64",
+      "includePath": [
+        "${workspaceFolder}/include",
+        "/opt/homebrew/include",
+        "/opt/homebrew/opt/eigen/include/eigen3",
+        "/opt/homebrew/opt/fmt/include",
+        "/opt/homebrew/opt/spdlog/include",
+        "/opt/homebrew/opt/pybind11/include",
+        "/opt/homebrew/opt/range-v3/include"
+      ]
+    }
+  ],
+  "version": 4
+}

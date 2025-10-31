@@ -1,0 +1,17 @@
+{
+  "cmake.generator": "Ninja",
+  "cmake.buildDirectory": "${workspaceFolder}/build",
+  "cmake.sourceDirectory": "${workspaceFolder}",
+  "cmake.configureOnOpen": true,
+  "cmake.preferredGenerators": ["Ninja"],
+  "C_Cpp.intelliSenseEngine": "disabled",
+
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.hpp": "cpp",
+    "iostream": "cpp"
+  },
+  "clangd.path": "/opt/homebrew/opt/llvm/bin/clangd"
+}
